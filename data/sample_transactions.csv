@@ -1,0 +1,1463 @@
+date,description,category,amount,transaction_type
+2023-10-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2023-10-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2023-10-01,Barbeque Nation,Dining Out,1532.58,Debit
+2023-10-02,Blinkit Cafe,Food & Dining,670.59,Debit
+2023-10-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2023-10-04,State Electricity Board Bill,Utilities,2949.39,Debit
+2023-10-04,Rapido,Transport,239.55,Debit
+2023-10-04,Ajio,Shopping,6896.29,Debit
+2023-10-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2023-10-05,Swiggy,Food & Dining,263.18,Debit
+2023-10-05,Toit Brewpub,Dining Out,2434.87,Debit
+2023-10-06,More Supermarket,Groceries,1086.44,Debit
+2023-10-06,DMart,Groceries,2862.96,Debit
+2023-10-06,Barbeque Nation,Dining Out,2769.35,Debit
+2023-10-06,Ajio,Shopping,7351.29,Debit
+2023-10-07,Netflix Subscription,Subscriptions,649.00,Debit
+2023-10-09,Spotify Premium,Subscriptions,119.00,Debit
+2023-10-09,Swiggy,Food & Dining,497.85,Debit
+2023-10-09,Indian Oil Fuel,Transport,542.33,Debit
+2023-10-09,Namma Metro,Transport,553.42,Debit
+2023-10-09,Indian Oil Fuel,Transport,783.13,Debit
+2023-10-10,Namma Metro,Transport,824.70,Debit
+2023-10-11,Barbeque Nation,Dining Out,2983.99,Debit
+2023-10-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2023-10-12,Namma Metro,Transport,591.25,Debit
+2023-10-12,Indian Oil Fuel,Transport,518.95,Debit
+2023-10-13,Rapido,Transport,832.79,Debit
+2023-10-14,Blinkit Cafe,Food & Dining,280.46,Debit
+2023-10-15,Zomato,Food & Dining,455.98,Debit
+2023-10-15,DMart,Groceries,1458.64,Debit
+2023-10-16,DMart,Groceries,2938.80,Debit
+2023-10-16,BigBasket,Groceries,2694.88,Debit
+2023-10-17,More Supermarket,Groceries,2360.53,Debit
+2023-10-17,BigBasket,Groceries,542.33,Debit
+2023-10-18,Rapido,Transport,174.39,Debit
+2023-10-19,Freelance Project Payment,Income,21295.92,Credit
+2023-10-19,Cafe Coffee Day,Food & Dining,168.20,Debit
+2023-10-19,Indian Oil Fuel,Transport,762.61,Debit
+2023-10-19,Ola Cabs,Transport,690.70,Debit
+2023-10-20,Cafe Coffee Day,Food & Dining,219.29,Debit
+2023-10-20,Indian Oil Fuel,Transport,744.38,Debit
+2023-10-20,Ajio,Shopping,4425.21,Debit
+2023-10-21,Swiggy,Food & Dining,205.52,Debit
+2023-10-21,Rapido,Transport,445.86,Debit
+2023-10-21,Amazon India,Shopping,4379.90,Debit
+2023-10-23,Swiggy,Food & Dining,275.77,Debit
+2023-10-24,Swiggy,Food & Dining,452.33,Debit
+2023-10-24,Uber,Transport,696.40,Debit
+2023-10-24,Uber,Transport,785.61,Debit
+2023-10-25,Cafe Coffee Day,Food & Dining,309.49,Debit
+2023-10-26,Cafe Coffee Day,Food & Dining,239.51,Debit
+2023-10-26,Uber,Transport,871.11,Debit
+2023-10-26,Coursera,Education,605.36,Debit
+2023-10-27,Namma Metro,Transport,124.74,Debit
+2023-10-27,Practo Consultation,Health,2199.98,Debit
+2023-10-28,Blinkit Cafe,Food & Dining,877.13,Debit
+2023-10-28,Cafe Coffee Day,Food & Dining,238.98,Debit
+2023-10-28,PVR Cinemas,Entertainment,1355.53,Debit
+2023-10-29,Cafe Coffee Day,Food & Dining,198.99,Debit
+2023-10-30,Zomato,Food & Dining,588.67,Debit
+2023-10-30,Swiggy,Food & Dining,489.31,Debit
+2023-10-30,Blinkit Cafe,Food & Dining,151.05,Debit
+2023-10-30,Blinkit Cafe,Food & Dining,502.08,Debit
+2023-10-30,PVR Cinemas,Entertainment,480.00,Debit
+2023-10-31,Ola Cabs,Transport,62.16,Debit
+2023-10-31,Toit Brewpub,Dining Out,3622.39,Debit
+2023-11-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2023-11-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2023-11-01,Indian Oil Fuel,Transport,508.92,Debit
+2023-11-02,Truffles,Dining Out,2498.64,Debit
+2023-11-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2023-11-03,Zomato,Food & Dining,937.86,Debit
+2023-11-03,Apollo Pharmacy,Health,350.14,Debit
+2023-11-04,State Electricity Board Bill,Utilities,2521.96,Debit
+2023-11-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2023-11-06,Zepto,Groceries,1434.49,Debit
+2023-11-06,The Permit Room,Dining Out,2104.21,Debit
+2023-11-07,Netflix Subscription,Subscriptions,649.00,Debit
+2023-11-07,Cafe Coffee Day,Food & Dining,392.85,Debit
+2023-11-07,Blinkit Cafe,Food & Dining,929.99,Debit
+2023-11-07,Ola Cabs,Transport,877.88,Debit
+2023-11-08,Udemy,Education,516.23,Debit
+2023-11-09,Spotify Premium,Subscriptions,119.00,Debit
+2023-11-09,Swiggy,Food & Dining,249.88,Debit
+2023-11-09,Cafe Coffee Day,Food & Dining,363.13,Debit
+2023-11-09,DMart,Groceries,2354.03,Debit
+2023-11-10,Ola Cabs,Transport,398.64,Debit
+2023-11-11,Blinkit Cafe,Food & Dining,901.08,Debit
+2023-11-11,Cafe Coffee Day,Food & Dining,160.20,Debit
+2023-11-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2023-11-12,Ola Cabs,Transport,453.87,Debit
+2023-11-13,Blinkit Cafe,Food & Dining,515.20,Debit
+2023-11-13,Ola Cabs,Transport,535.10,Debit
+2023-11-14,DMart,Groceries,1591.19,Debit
+2023-11-14,Uber,Transport,256.62,Debit
+2023-11-15,Cafe Coffee Day,Food & Dining,727.56,Debit
+2023-11-15,DMart,Groceries,2969.76,Debit
+2023-11-15,Zepto,Groceries,1585.03,Debit
+2023-11-15,Indian Oil Fuel,Transport,441.11,Debit
+2023-11-15,Barbeque Nation,Dining Out,1393.24,Debit
+2023-11-16,Indian Oil Fuel,Transport,412.67,Debit
+2023-11-17,Reliance Fresh,Groceries,2493.03,Debit
+2023-11-17,Uber,Transport,483.40,Debit
+2023-11-17,Rapido,Transport,547.90,Debit
+2023-11-17,The Permit Room,Dining Out,1487.35,Debit
+2023-11-18,Third Wave Coffee,Food & Dining,442.26,Debit
+2023-11-18,Zomato,Food & Dining,775.56,Debit
+2023-11-18,Blinkit Cafe,Food & Dining,928.10,Debit
+2023-11-18,Rapido,Transport,357.71,Debit
+2023-11-19,Blinkit Cafe,Food & Dining,828.09,Debit
+2023-11-20,More Supermarket,Groceries,646.93,Debit
+2023-11-20,Namma Metro,Transport,101.57,Debit
+2023-11-21,Third Wave Coffee,Food & Dining,380.17,Debit
+2023-11-21,Decathlon,Shopping,947.54,Debit
+2023-11-23,Freelance Project Payment,Income,26473.12,Credit
+2023-11-23,Swiggy,Food & Dining,475.07,Debit
+2023-11-23,Ajio,Shopping,1606.02,Debit
+2023-11-23,Ajio,Shopping,1659.91,Debit
+2023-11-24,Zepto,Groceries,1091.12,Debit
+2023-11-24,PharmEasy,Health,254.82,Debit
+2023-11-25,PVR Cinemas,Entertainment,318.24,Debit
+2023-11-25,PVR Cinemas,Entertainment,1376.39,Debit
+2023-11-27,Blinkit Cafe,Food & Dining,884.90,Debit
+2023-11-27,Ola Cabs,Transport,177.69,Debit
+2023-11-27,BookMyShow,Entertainment,1194.71,Debit
+2023-11-27,Ajio,Shopping,3402.07,Debit
+2023-11-28,Ola Cabs,Transport,863.83,Debit
+2023-11-29,Third Wave Coffee,Food & Dining,957.18,Debit
+2023-12-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2023-12-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2023-12-01,Cafe Coffee Day,Food & Dining,459.77,Debit
+2023-12-01,More Supermarket,Groceries,1744.11,Debit
+2023-12-01,Amazon India,Shopping,3082.19,Debit
+2023-12-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2023-12-03,Third Wave Coffee,Food & Dining,806.23,Debit
+2023-12-04,State Electricity Board Bill,Utilities,2134.79,Debit
+2023-12-04,Third Wave Coffee,Food & Dining,343.14,Debit
+2023-12-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2023-12-05,Zomato,Food & Dining,788.77,Debit
+2023-12-05,Indian Oil Fuel,Transport,231.91,Debit
+2023-12-05,Indian Oil Fuel,Transport,180.69,Debit
+2023-12-06,Rapido,Transport,570.31,Debit
+2023-12-07,Netflix Subscription,Subscriptions,649.00,Debit
+2023-12-07,Zomato,Food & Dining,266.12,Debit
+2023-12-08,Cafe Coffee Day,Food & Dining,731.83,Debit
+2023-12-08,Blinkit Cafe,Food & Dining,281.11,Debit
+2023-12-08,Uber,Transport,292.28,Debit
+2023-12-08,The Permit Room,Dining Out,3819.15,Debit
+2023-12-09,Spotify Premium,Subscriptions,119.00,Debit
+2023-12-11,Uber,Transport,315.47,Debit
+2023-12-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2023-12-12,Cafe Coffee Day,Food & Dining,743.41,Debit
+2023-12-12,Blinkit Cafe,Food & Dining,276.08,Debit
+2023-12-12,Indian Oil Fuel,Transport,249.00,Debit
+2023-12-12,Rapido,Transport,215.90,Debit
+2023-12-13,Blinkit Cafe,Food & Dining,750.83,Debit
+2023-12-13,Third Wave Coffee,Food & Dining,734.53,Debit
+2023-12-13,DMart,Groceries,1740.11,Debit
+2023-12-15,Zomato,Food & Dining,840.90,Debit
+2023-12-18,Swiggy,Food & Dining,603.47,Debit
+2023-12-18,Zepto,Groceries,630.30,Debit
+2023-12-19,Cafe Coffee Day,Food & Dining,548.61,Debit
+2023-12-19,Indian Oil Fuel,Transport,378.34,Debit
+2023-12-19,Uber,Transport,707.12,Debit
+2023-12-20,Rapido,Transport,860.90,Debit
+2023-12-20,Ola Cabs,Transport,804.36,Debit
+2023-12-21,DMart,Groceries,2688.15,Debit
+2023-12-21,Toit Brewpub,Dining Out,3192.65,Debit
+2023-12-22,Cafe Coffee Day,Food & Dining,487.44,Debit
+2023-12-22,Third Wave Coffee,Food & Dining,621.30,Debit
+2023-12-22,Cafe Coffee Day,Food & Dining,700.15,Debit
+2023-12-22,Uber,Transport,673.72,Debit
+2023-12-24,BookMyShow,Entertainment,794.46,Debit
+2023-12-27,Blinkit Cafe,Food & Dining,904.28,Debit
+2023-12-27,Cafe Coffee Day,Food & Dining,707.99,Debit
+2023-12-28,Zomato,Food & Dining,654.66,Debit
+2023-12-28,DMart,Groceries,2809.43,Debit
+2023-12-29,Uber,Transport,667.01,Debit
+2023-12-29,Indian Oil Fuel,Transport,344.71,Debit
+2023-12-31,DMart,Groceries,3199.48,Debit
+2023-12-31,Toit Brewpub,Dining Out,1445.32,Debit
+2024-01-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2024-01-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-01-01,Blinkit Cafe,Food & Dining,554.72,Debit
+2024-01-01,DMart,Groceries,2528.48,Debit
+2024-01-01,The Permit Room,Dining Out,2714.87,Debit
+2024-01-02,More Supermarket,Groceries,657.64,Debit
+2024-01-02,Amazon India,Shopping,3258.58,Debit
+2024-01-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-01-04,State Electricity Board Bill,Utilities,2484.39,Debit
+2024-01-04,Uber,Transport,504.97,Debit
+2024-01-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-01-05,Swiggy,Food & Dining,894.05,Debit
+2024-01-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-01-07,Blinkit Cafe,Food & Dining,897.39,Debit
+2024-01-08,Ola Cabs,Transport,435.77,Debit
+2024-01-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-01-09,Ola Cabs,Transport,199.62,Debit
+2024-01-09,Ola Cabs,Transport,135.07,Debit
+2024-01-10,Zomato,Food & Dining,540.50,Debit
+2024-01-10,Zepto,Groceries,2191.82,Debit
+2024-01-10,Steam Games,Entertainment,1733.33,Debit
+2024-01-11,Truffles,Dining Out,925.17,Debit
+2024-01-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-01-12,Zomato,Food & Dining,776.71,Debit
+2024-01-12,Third Wave Coffee,Food & Dining,732.15,Debit
+2024-01-12,Third Wave Coffee,Food & Dining,693.22,Debit
+2024-01-12,Rapido,Transport,752.52,Debit
+2024-01-12,BookMyShow,Entertainment,1830.81,Debit
+2024-01-12,PharmEasy,Health,916.25,Debit
+2024-01-14,Blinkit Cafe,Food & Dining,454.42,Debit
+2024-01-15,Swiggy,Food & Dining,315.66,Debit
+2024-01-15,Third Wave Coffee,Food & Dining,496.39,Debit
+2024-01-15,Zepto,Groceries,1905.84,Debit
+2024-01-15,Uber,Transport,443.01,Debit
+2024-01-16,Rapido,Transport,307.87,Debit
+2024-01-16,Ajio,Shopping,4590.18,Debit
+2024-01-18,Third Wave Coffee,Food & Dining,401.00,Debit
+2024-01-18,Indian Oil Fuel,Transport,203.34,Debit
+2024-01-18,Rapido,Transport,632.67,Debit
+2024-01-18,Toit Brewpub,Dining Out,1096.98,Debit
+2024-01-19,Blinkit Cafe,Food & Dining,567.69,Debit
+2024-01-19,Uber,Transport,432.54,Debit
+2024-01-19,Ola Cabs,Transport,452.61,Debit
+2024-01-19,Namma Metro,Transport,444.13,Debit
+2024-01-21,Blinkit Cafe,Food & Dining,839.76,Debit
+2024-01-21,Third Wave Coffee,Food & Dining,487.46,Debit
+2024-01-22,DMart,Groceries,2343.27,Debit
+2024-01-24,Freelance Project Payment,Income,37354.11,Credit
+2024-01-24,Blinkit Cafe,Food & Dining,724.42,Debit
+2024-01-24,O'Reilly Learning,Education,4516.68,Debit
+2024-01-25,BigBasket,Groceries,2930.34,Debit
+2024-01-25,Indian Oil Fuel,Transport,349.35,Debit
+2024-01-25,PharmEasy,Health,2218.24,Debit
+2024-01-26,Zomato,Food & Dining,805.22,Debit
+2024-01-26,Rapido,Transport,606.92,Debit
+2024-01-27,Blinkit Cafe,Food & Dining,791.83,Debit
+2024-01-28,Cafe Coffee Day,Food & Dining,515.06,Debit
+2024-01-28,DMart,Groceries,3161.04,Debit
+2024-01-30,Ola Cabs,Transport,182.60,Debit
+2024-01-31,Swiggy,Food & Dining,290.15,Debit
+2024-01-31,Rapido,Transport,311.99,Debit
+2024-02-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2024-02-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-02-01,Zomato,Food & Dining,298.33,Debit
+2024-02-01,Zomato,Food & Dining,500.30,Debit
+2024-02-02,Swiggy,Food & Dining,485.74,Debit
+2024-02-02,Uber,Transport,783.44,Debit
+2024-02-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-02-04,State Electricity Board Bill,Utilities,2917.82,Debit
+2024-02-04,Swiggy,Food & Dining,375.72,Debit
+2024-02-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-02-05,Swiggy,Food & Dining,980.78,Debit
+2024-02-05,Truffles,Dining Out,1980.93,Debit
+2024-02-06,Namma Metro,Transport,182.07,Debit
+2024-02-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-02-07,Blinkit Cafe,Food & Dining,408.01,Debit
+2024-02-07,Third Wave Coffee,Food & Dining,986.81,Debit
+2024-02-07,Ola Cabs,Transport,853.20,Debit
+2024-02-07,Ola Cabs,Transport,855.11,Debit
+2024-02-07,Toit Brewpub,Dining Out,1099.18,Debit
+2024-02-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-02-10,Zomato,Food & Dining,934.48,Debit
+2024-02-11,Swiggy,Food & Dining,774.54,Debit
+2024-02-11,Ola Cabs,Transport,378.12,Debit
+2024-02-11,BookMyShow,Entertainment,481.55,Debit
+2024-02-12,Mutual Fund Dividend Payout,Income,11532.38,Credit
+2024-02-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-02-12,DMart,Groceries,2147.16,Debit
+2024-02-12,Truffles,Dining Out,931.67,Debit
+2024-02-13,Zomato,Food & Dining,723.73,Debit
+2024-02-13,Reliance Fresh,Groceries,2182.55,Debit
+2024-02-13,Rapido,Transport,689.72,Debit
+2024-02-15,Rapido,Transport,637.20,Debit
+2024-02-16,Zomato,Food & Dining,676.79,Debit
+2024-02-16,Third Wave Coffee,Food & Dining,709.04,Debit
+2024-02-16,Rapido,Transport,154.30,Debit
+2024-02-17,Swiggy,Food & Dining,534.82,Debit
+2024-02-17,BigBasket,Groceries,1856.82,Debit
+2024-02-18,Namma Metro,Transport,748.17,Debit
+2024-02-18,PVR Cinemas,Entertainment,1411.27,Debit
+2024-02-20,Freelance Project Payment,Income,24728.97,Credit
+2024-02-20,Third Wave Coffee,Food & Dining,164.57,Debit
+2024-02-20,Third Wave Coffee,Food & Dining,299.49,Debit
+2024-02-20,BigBasket,Groceries,2520.34,Debit
+2024-02-20,Namma Metro,Transport,809.09,Debit
+2024-02-20,Rapido,Transport,401.91,Debit
+2024-02-21,Zepto,Groceries,2182.35,Debit
+2024-02-21,Ola Cabs,Transport,577.81,Debit
+2024-02-21,Apollo Pharmacy,Health,2100.34,Debit
+2024-02-21,Truffles,Dining Out,2813.19,Debit
+2024-02-21,The Permit Room,Dining Out,3387.07,Debit
+2024-02-22,Blinkit Cafe,Food & Dining,880.20,Debit
+2024-02-22,BookMyShow,Entertainment,900.00,Debit
+2024-02-23,Zomato,Food & Dining,746.27,Debit
+2024-02-26,BigBasket,Groceries,1616.96,Debit
+2024-02-26,Ola Cabs,Transport,79.22,Debit
+2024-02-26,Indian Oil Fuel,Transport,699.10,Debit
+2024-02-26,Ola Cabs,Transport,873.18,Debit
+2024-02-26,Amazon India,Shopping,1172.41,Debit
+2024-02-27,Swiggy,Food & Dining,624.94,Debit
+2024-02-28,DMart,Groceries,3244.89,Debit
+2024-02-28,Ajio,Shopping,1248.61,Debit
+2024-03-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2024-03-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-03-01,Ola Cabs,Transport,140.48,Debit
+2024-03-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-03-02,Cafe Coffee Day,Food & Dining,471.02,Debit
+2024-03-02,More Supermarket,Groceries,1808.96,Debit
+2024-03-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-03-04,State Electricity Board Bill,Utilities,2232.10,Debit
+2024-03-04,Cafe Coffee Day,Food & Dining,769.60,Debit
+2024-03-04,Swiggy,Food & Dining,754.37,Debit
+2024-03-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-03-06,Cafe Coffee Day,Food & Dining,928.27,Debit
+2024-03-06,Swiggy,Food & Dining,986.88,Debit
+2024-03-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-03-07,Zomato,Food & Dining,325.16,Debit
+2024-03-07,Swiggy,Food & Dining,423.56,Debit
+2024-03-07,Ola Cabs,Transport,754.50,Debit
+2024-03-08,Blinkit Cafe,Food & Dining,941.73,Debit
+2024-03-08,BookMyShow,Entertainment,1558.75,Debit
+2024-03-08,PVR Cinemas,Entertainment,1593.33,Debit
+2024-03-08,Truffles,Dining Out,3084.81,Debit
+2024-03-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-03-10,Cafe Coffee Day,Food & Dining,854.16,Debit
+2024-03-10,Third Wave Coffee,Food & Dining,490.74,Debit
+2024-03-10,Uber,Transport,876.23,Debit
+2024-03-11,Third Wave Coffee,Food & Dining,261.88,Debit
+2024-03-11,Ajio,Shopping,1571.14,Debit
+2024-03-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-03-12,Cafe Coffee Day,Food & Dining,451.17,Debit
+2024-03-12,Cafe Coffee Day,Food & Dining,814.55,Debit
+2024-03-12,Toit Brewpub,Dining Out,2616.97,Debit
+2024-03-13,More Supermarket,Groceries,765.17,Debit
+2024-03-14,Reliance Fresh,Groceries,1689.75,Debit
+2024-03-14,Ola Cabs,Transport,503.91,Debit
+2024-03-15,Freelance Project Payment,Income,42152.21,Credit
+2024-03-15,Third Wave Coffee,Food & Dining,711.17,Debit
+2024-03-16,PharmEasy,Health,1267.06,Debit
+2024-03-18,BigBasket,Groceries,1048.43,Debit
+2024-03-18,Practo Consultation,Health,2095.95,Debit
+2024-03-18,Truffles,Dining Out,2117.56,Debit
+2024-03-18,Amazon India,Shopping,4081.38,Debit
+2024-03-19,Swiggy,Food & Dining,672.85,Debit
+2024-03-19,BigBasket,Groceries,2597.66,Debit
+2024-03-19,More Supermarket,Groceries,2413.12,Debit
+2024-03-19,Ola Cabs,Transport,816.01,Debit
+2024-03-19,Rapido,Transport,256.56,Debit
+2024-03-19,Namma Metro,Transport,687.11,Debit
+2024-03-19,Barbeque Nation,Dining Out,3366.17,Debit
+2024-03-20,Cafe Coffee Day,Food & Dining,393.11,Debit
+2024-03-20,Zomato,Food & Dining,743.42,Debit
+2024-03-20,PVR Cinemas,Entertainment,1260.63,Debit
+2024-03-21,Uber,Transport,126.34,Debit
+2024-03-22,Rapido,Transport,926.00,Debit
+2024-03-22,Uber,Transport,303.32,Debit
+2024-03-23,Uber,Transport,710.98,Debit
+2024-03-25,Swiggy,Food & Dining,347.14,Debit
+2024-03-26,Cafe Coffee Day,Food & Dining,985.33,Debit
+2024-03-26,Uber,Transport,147.20,Debit
+2024-03-27,Barbeque Nation,Dining Out,1445.59,Debit
+2024-03-28,Third Wave Coffee,Food & Dining,1006.83,Debit
+2024-03-29,Cafe Coffee Day,Food & Dining,403.95,Debit
+2024-03-29,Myntra,Shopping,3599.93,Debit
+2024-03-30,Blinkit Cafe,Food & Dining,235.59,Debit
+2024-03-30,Barbeque Nation,Dining Out,1118.53,Debit
+2024-03-31,DMart,Groceries,770.19,Debit
+2024-04-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2024-04-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-04-01,Blinkit Cafe,Food & Dining,983.38,Debit
+2024-04-01,Namma Metro,Transport,293.53,Debit
+2024-04-01,Namma Metro,Transport,730.89,Debit
+2024-04-01,Steam Games,Entertainment,1220.77,Debit
+2024-04-01,Amazon India,Shopping,1935.06,Debit
+2024-04-01,Apple Store,Electronics,54236.75,Debit
+2024-04-02,Reliance Fresh,Groceries,684.92,Debit
+2024-04-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-04-03,Steam Games,Entertainment,1654.86,Debit
+2024-04-03,Barbeque Nation,Dining Out,1163.55,Debit
+2024-04-04,State Electricity Board Bill,Utilities,1769.43,Debit
+2024-04-04,Indian Oil Fuel,Transport,403.47,Debit
+2024-04-04,Uber,Transport,173.00,Debit
+2024-04-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-04-05,Cafe Coffee Day,Food & Dining,303.65,Debit
+2024-04-05,Blinkit Cafe,Food & Dining,639.83,Debit
+2024-04-05,Namma Metro,Transport,723.04,Debit
+2024-04-05,Steam Games,Entertainment,901.21,Debit
+2024-04-05,Barbeque Nation,Dining Out,1784.91,Debit
+2024-04-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-04-07,Uber,Transport,522.84,Debit
+2024-04-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-04-09,Blinkit Cafe,Food & Dining,249.11,Debit
+2024-04-09,More Supermarket,Groceries,2142.41,Debit
+2024-04-10,Zomato,Food & Dining,906.09,Debit
+2024-04-10,Ola Cabs,Transport,918.46,Debit
+2024-04-10,The Permit Room,Dining Out,2051.98,Debit
+2024-04-11,Cafe Coffee Day,Food & Dining,220.56,Debit
+2024-04-11,BigBasket,Groceries,3234.72,Debit
+2024-04-11,Namma Metro,Transport,378.05,Debit
+2024-04-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-04-12,Zepto,Groceries,2427.97,Debit
+2024-04-12,Ajio,Shopping,4529.84,Debit
+2024-04-15,Third Wave Coffee,Food & Dining,596.47,Debit
+2024-04-15,Third Wave Coffee,Food & Dining,638.61,Debit
+2024-04-15,Cafe Coffee Day,Food & Dining,762.45,Debit
+2024-04-15,Indian Oil Fuel,Transport,380.84,Debit
+2024-04-15,Namma Metro,Transport,198.64,Debit
+2024-04-16,Cafe Coffee Day,Food & Dining,327.19,Debit
+2024-04-16,IndiGo,Travel,74937.37,Debit
+2024-04-18,Swiggy,Food & Dining,403.75,Debit
+2024-04-18,Blinkit Cafe,Food & Dining,410.48,Debit
+2024-04-18,Decathlon,Shopping,4689.03,Debit
+2024-04-19,Blinkit Cafe,Food & Dining,359.12,Debit
+2024-04-19,Swiggy,Food & Dining,620.02,Debit
+2024-04-19,Indian Oil Fuel,Transport,210.25,Debit
+2024-04-19,Indian Oil Fuel,Transport,71.98,Debit
+2024-04-20,Zomato,Food & Dining,218.66,Debit
+2024-04-21,Truffles,Dining Out,1831.38,Debit
+2024-04-22,Zomato,Food & Dining,566.09,Debit
+2024-04-22,Indian Oil Fuel,Transport,548.01,Debit
+2024-04-22,Uber,Transport,390.89,Debit
+2024-04-23,Zomato,Food & Dining,864.70,Debit
+2024-04-24,Cafe Coffee Day,Food & Dining,763.31,Debit
+2024-04-25,BigBasket,Groceries,2551.38,Debit
+2024-04-26,Indian Oil Fuel,Transport,400.22,Debit
+2024-04-26,O'Reilly Learning,Education,1580.75,Debit
+2024-04-27,Truffles,Dining Out,2355.43,Debit
+2024-04-28,Rapido,Transport,459.63,Debit
+2024-04-30,Blinkit Cafe,Food & Dining,279.20,Debit
+2024-04-30,Blinkit Cafe,Food & Dining,309.03,Debit
+2024-04-30,Ola Cabs,Transport,415.57,Debit
+2024-04-30,Ola Cabs,Transport,425.36,Debit
+2024-05-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2024-05-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-05-02,Third Wave Coffee,Food & Dining,543.07,Debit
+2024-05-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-05-04,State Electricity Board Bill,Utilities,1814.23,Debit
+2024-05-04,The Permit Room,Dining Out,1002.78,Debit
+2024-05-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-05-05,Ola Cabs,Transport,332.93,Debit
+2024-05-06,DMart,Groceries,1465.93,Debit
+2024-05-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-05-07,Swiggy,Food & Dining,495.45,Debit
+2024-05-07,Namma Metro,Transport,342.13,Debit
+2024-05-08,Zepto,Groceries,2572.55,Debit
+2024-05-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-05-09,DMart,Groceries,556.15,Debit
+2024-05-09,Namma Metro,Transport,117.64,Debit
+2024-05-09,Apollo Pharmacy,Health,1179.18,Debit
+2024-05-11,Blinkit Cafe,Food & Dining,203.34,Debit
+2024-05-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-05-12,Barbeque Nation,Dining Out,3342.63,Debit
+2024-05-13,Ola Cabs,Transport,865.24,Debit
+2024-05-13,Barbeque Nation,Dining Out,881.84,Debit
+2024-05-14,Zomato,Food & Dining,817.15,Debit
+2024-05-14,Swiggy,Food & Dining,468.35,Debit
+2024-05-14,Cafe Coffee Day,Food & Dining,218.97,Debit
+2024-05-14,Namma Metro,Transport,644.14,Debit
+2024-05-14,Rapido,Transport,698.00,Debit
+2024-05-14,Coursera,Education,2325.69,Debit
+2024-05-16,Ola Cabs,Transport,785.59,Debit
+2024-05-16,Ola Cabs,Transport,661.25,Debit
+2024-05-16,Uber,Transport,559.71,Debit
+2024-05-17,Swiggy,Food & Dining,803.71,Debit
+2024-05-17,Ola Cabs,Transport,649.72,Debit
+2024-05-17,Indian Oil Fuel,Transport,409.10,Debit
+2024-05-17,Amazon India,Shopping,5232.31,Debit
+2024-05-18,Third Wave Coffee,Food & Dining,941.81,Debit
+2024-05-18,Third Wave Coffee,Food & Dining,415.54,Debit
+2024-05-22,Swiggy,Food & Dining,435.57,Debit
+2024-05-22,BigBasket,Groceries,2021.04,Debit
+2024-05-22,More Supermarket,Groceries,3093.03,Debit
+2024-05-22,Ola Cabs,Transport,196.39,Debit
+2024-05-23,Zepto,Groceries,1003.59,Debit
+2024-05-24,Blinkit Cafe,Food & Dining,405.50,Debit
+2024-05-24,Blinkit Cafe,Food & Dining,732.30,Debit
+2024-05-24,Indian Oil Fuel,Transport,553.65,Debit
+2024-05-25,Steam Games,Entertainment,763.87,Debit
+2024-05-27,Zomato,Food & Dining,862.47,Debit
+2024-05-27,Cafe Coffee Day,Food & Dining,166.12,Debit
+2024-05-27,Reliance Fresh,Groceries,496.76,Debit
+2024-05-29,Third Wave Coffee,Food & Dining,758.54,Debit
+2024-05-29,Namma Metro,Transport,487.07,Debit
+2024-05-30,Zomato,Food & Dining,338.67,Debit
+2024-05-30,Zomato,Food & Dining,442.52,Debit
+2024-05-30,BigBasket,Groceries,2637.01,Debit
+2024-05-30,Local Kirana Store,,480.00,Debit
+2024-05-30,,Groceries,1180.50,Debit
+2024-05-30,Corner Bakery,Food & Dining,(450.00),Debit
+2024-05-30,  Swiggy  , food & dining ,610.00,Debit
+2024-05-30,Refund - Amazon India,Shopping,-899.00,Credit
+2024-05-31,Rapido,Transport,542.74,Debit
+2024-05-31,Ola Cabs,Transport,261.58,Debit
+2024-05-31,Toit Brewpub,Dining Out,1110.32,Debit
+2024-06-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2024-06-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-06-01,BigBasket,Groceries,394.88,Debit
+2024-06-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-06-03,Swiggy,Food & Dining,429.40,Debit
+2024-06-04,State Electricity Board Bill,Utilities,2157.64,Debit
+2024-06-04,Blinkit Cafe,Food & Dining,393.19,Debit
+2024-06-04,Namma Metro,Transport,550.11,Debit
+2024-06-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-06-05,More Supermarket,Groceries,2328.57,Debit
+2024-06-05,Indian Oil Fuel,Transport,891.40,Debit
+2024-06-05,Uber,Transport,140.61,Debit
+2024-06-05,Indian Oil Fuel,Transport,777.06,Debit
+2024-06-05,Apple Store,Electronics,87419.84,Debit
+2024-06-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-06-07,Zomato,Food & Dining,528.82,Debit
+2024-06-07,DMart,Groceries,1866.33,Debit
+2024-06-07,Toit Brewpub,Dining Out,1480.27,Debit
+2024-06-07,Ajio,Shopping,6084.19,Debit
+2024-06-08,Third Wave Coffee,Food & Dining,349.19,Debit
+2024-06-08,Zomato,Food & Dining,211.04,Debit
+2024-06-08,Toit Brewpub,Dining Out,2036.72,Debit
+2024-06-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-06-09,Swiggy,Food & Dining,621.46,Debit
+2024-06-09,Steam Games,Entertainment,938.76,Debit
+2024-06-09,Toit Brewpub,Dining Out,3270.01,Debit
+2024-06-10,DMart,Groceries,2255.76,Debit
+2024-06-11,Third Wave Coffee,Food & Dining,1002.14,Debit
+2024-06-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-06-12,Swiggy,Food & Dining,479.19,Debit
+2024-06-12,Indian Oil Fuel,Transport,637.48,Debit
+2024-06-13,Blinkit Cafe,Food & Dining,708.98,Debit
+2024-06-14,Cafe Coffee Day,Food & Dining,957.19,Debit
+2024-06-14,Ola Cabs,Transport,836.24,Debit
+2024-06-14,Ola Cabs,Transport,836.24,Debit
+2024-06-15,Blinkit Cafe,Food & Dining,385.11,Debit
+2024-06-15,Third Wave Coffee,Food & Dining,445.18,Debit
+2024-06-17,Ola Cabs,Transport,137.33,Debit
+2024-06-17,The Permit Room,Dining Out,2492.83,Debit
+2024-06-18,Third Wave Coffee,Food & Dining,869.25,Debit
+2024-06-18,Barbeque Nation,Dining Out,2619.92,Debit
+2024-06-19,Blinkit Cafe,Food & Dining,823.37,Debit
+2024-06-19,Swiggy,Food & Dining,318.26,Debit
+2024-06-19,Indian Oil Fuel,Transport,912.23,Debit
+2024-06-20,PVR Cinemas,Entertainment,1849.44,Debit
+2024-06-22,BigBasket,Groceries,3271.06,Debit
+2024-06-23,Cafe Coffee Day,Food & Dining,1025.71,Debit
+2024-06-23,Indian Oil Fuel,Transport,890.72,Debit
+2024-06-25,Ola Cabs,Transport,332.51,Debit
+2024-06-26,Zomato,Food & Dining,232.77,Debit
+2024-06-26,Ola Cabs,Transport,832.35,Debit
+2024-06-27,Ola Cabs,Transport,237.03,Debit
+2024-06-28,Blinkit Cafe,Food & Dining,373.40,Debit
+2024-06-28,Blinkit Cafe,Food & Dining,772.38,Debit
+2024-06-29,Swiggy,Food & Dining,306.56,Debit
+2024-06-30,Toit Brewpub,Dining Out,2567.22,Debit
+2024-07-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2024-07-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-07-01,Uber,Transport,344.76,Debit
+2024-07-01,Namma Metro,Transport,213.89,Debit
+2024-07-01,Ola Cabs,Transport,457.03,Debit
+2024-07-01,Ola Cabs,Transport,589.56,Debit
+2024-07-02,Cafe Coffee Day,Food & Dining,566.89,Debit
+2024-07-02,Zomato,Food & Dining,729.53,Debit
+2024-07-02,Uber,Transport,229.03,Debit
+2024-07-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-07-03,Reliance Fresh,Groceries,2553.02,Debit
+2024-07-04,State Electricity Board Bill,Utilities,2508.62,Debit
+2024-07-04,Cafe Coffee Day,Food & Dining,491.55,Debit
+2024-07-04,Reliance Fresh,Groceries,2795.43,Debit
+2024-07-04,Namma Metro,Transport,274.38,Debit
+2024-07-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-07-06,Cafe Coffee Day,Food & Dining,406.68,Debit
+2024-07-06,Cafe Coffee Day,Food & Dining,628.72,Debit
+2024-07-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-07-07,Blinkit Cafe,Food & Dining,969.08,Debit
+2024-07-07,Toit Brewpub,Dining Out,1087.21,Debit
+2024-07-08,Namma Metro,Transport,196.45,Debit
+2024-07-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-07-09,Third Wave Coffee,Food & Dining,314.96,Debit
+2024-07-09,Namma Metro,Transport,670.87,Debit
+2024-07-10,DMart,Groceries,1609.99,Debit
+2024-07-10,Uber,Transport,91.71,Debit
+2024-07-11,Blinkit Cafe,Food & Dining,760.90,Debit
+2024-07-11,Cafe Coffee Day,Food & Dining,552.05,Debit
+2024-07-11,Third Wave Coffee,Food & Dining,736.13,Debit
+2024-07-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-07-13,Zomato,Food & Dining,849.14,Debit
+2024-07-13,The Permit Room,Dining Out,2226.81,Debit
+2024-07-14,Blinkit Cafe,Food & Dining,704.46,Debit
+2024-07-14,Non Numeric Amount Row,Shopping,N/A,Debit
+2024-07-15,Cafe Coffee Day,Food & Dining,811.38,Debit
+2024-07-15,DMart,Groceries,2340.54,Debit
+2024-07-15,Truffles,Dining Out,2685.28,Debit
+2024-07-15,Udemy,Education,4424.68,Debit
+2024-07-17,Ajio,Shopping,5146.07,Debit
+2024-07-18,BookMyShow,Entertainment,478.76,Debit
+2024-07-19,Cafe Coffee Day,Food & Dining,369.42,Debit
+2024-07-19,DMart,Groceries,2997.12,Debit
+2024-07-21,The Permit Room,Dining Out,1817.11,Debit
+2024-07-22,Cafe Coffee Day,Food & Dining,732.60,Debit
+2024-07-22,Indian Oil Fuel,Transport,464.30,Debit
+2024-07-22,Decathlon,Shopping,4348.52,Debit
+2024-07-23,Swiggy,Food & Dining,919.29,Debit
+2024-07-23,Ola Cabs,Transport,389.67,Debit
+2024-07-24,Zomato,Food & Dining,364.32,Debit
+2024-07-25,Rapido,Transport,584.62,Debit
+2024-07-25,Steam Games,Entertainment,447.87,Debit
+2024-07-27,Zomato,Food & Dining,620.50,Debit
+2024-07-28,PVR Cinemas,Entertainment,1628.80,Debit
+2024-07-29,Cafe Coffee Day,Food & Dining,229.46,Debit
+2024-07-30,Blinkit Cafe,Food & Dining,702.86,Debit
+2024-07-30,Ola Cabs,Transport,910.15,Debit
+2024-07-31,Cafe Coffee Day,Food & Dining,766.44,Debit
+2024-07-31,Blinkit Cafe,Food & Dining,570.60,Debit
+2024-07-31,Indian Oil Fuel,Transport,749.58,Debit
+2024-08-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2024-08-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-08-01,Zomato,Food & Dining,709.38,Debit
+2024-08-01,Rapido,Transport,604.84,Debit
+2024-08-01,Myntra,Shopping,2352.10,Debit
+2024-08-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-08-04,State Electricity Board Bill,Utilities,2617.12,Debit
+2024-08-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-08-05,Zomato,Food & Dining,246.91,Debit
+2024-08-05,Swiggy,Food & Dining,936.27,Debit
+2024-08-05,BigBasket,Groceries,2342.82,Debit
+2024-08-05,Uber,Transport,601.58,Debit
+2024-08-05,Rapido,Transport,367.76,Debit
+2024-08-06,Zomato,Food & Dining,364.54,Debit
+2024-08-06,Indian Oil Fuel,Transport,443.36,Debit
+2024-08-06,The Permit Room,Dining Out,2099.21,Debit
+2024-08-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-08-07,Cafe Coffee Day,Food & Dining,248.14,Debit
+2024-08-07,Blinkit Cafe,Food & Dining,701.72,Debit
+2024-08-08,Third Wave Coffee,Food & Dining,653.95,Debit
+2024-08-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-08-10,Cafe Coffee Day,Food & Dining,427.02,Debit
+2024-08-10,Cafe Coffee Day,Food & Dining,941.88,Debit
+2024-08-10,Ola Cabs,Transport,715.35,Debit
+2024-08-11,Zomato,Food & Dining,848.78,Debit
+2024-08-11,DMart,Groceries,889.94,Debit
+2024-08-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-08-12,Indian Oil Fuel,Transport,474.53,Debit
+2024-08-12,Uber,Transport,657.61,Debit
+2024-08-13,Cafe Coffee Day,Food & Dining,1011.36,Debit
+2024-08-13,Namma Metro,Transport,869.59,Debit
+2024-08-14,The Permit Room,Dining Out,2026.68,Debit
+2024-08-15,Cafe Coffee Day,Food & Dining,834.56,Debit
+2024-08-16,Ola Cabs,Transport,934.22,Debit
+2024-08-18,Blinkit Cafe,Food & Dining,384.56,Debit
+2024-08-19,Third Wave Coffee,Food & Dining,271.79,Debit
+2024-08-19,PharmEasy,Health,1435.29,Debit
+2024-08-20,Third Wave Coffee,Food & Dining,291.75,Debit
+2024-08-20,Blinkit Cafe,Food & Dining,362.39,Debit
+2024-08-20,BookMyShow,Entertainment,510.71,Debit
+2024-08-21,Blinkit Cafe,Food & Dining,601.92,Debit
+2024-08-22,Zomato,Food & Dining,190.03,Debit
+2024-08-22,DMart,Groceries,2803.21,Debit
+2024-08-22,Uber,Transport,509.37,Debit
+2024-08-22,Uber,Transport,353.91,Debit
+2024-08-22,The Permit Room,Dining Out,1761.44,Debit
+2024-08-22,The Permit Room,Dining Out,2462.42,Debit
+2024-08-23,Zomato,Food & Dining,602.29,Debit
+2024-08-23,BigBasket,Groceries,2144.66,Debit
+2024-08-23,Reliance Fresh,Groceries,2467.60,Debit
+2024-08-24,BookMyShow,Entertainment,1259.58,Debit
+2024-08-26,Zomato,Food & Dining,539.45,Debit
+2024-08-26,More Supermarket,Groceries,976.05,Debit
+2024-08-27,DMart,Groceries,2296.71,Debit
+2024-08-27,Rapido,Transport,821.77,Debit
+2024-08-28,Steam Games,Entertainment,1125.35,Debit
+2024-08-29,Third Wave Coffee,Food & Dining,1016.39,Debit
+2024-08-29,Toit Brewpub,Dining Out,1784.46,Debit
+2024-08-29,Toit Brewpub,Dining Out,3098.24,Debit
+2024-08-30,Ola Cabs,Transport,607.47,Debit
+2024-08-30,Rapido,Transport,947.71,Debit
+2024-08-30,Rapido,Transport,506.21,Debit
+2024-09-01,Salary Credit - Nexora Technologies,Income,152000.00,Credit
+2024-09-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-09-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-09-03,Third Wave Coffee,Food & Dining,613.71,Debit
+2024-09-03,BigBasket,Groceries,2821.84,Debit
+2024-09-03,Uber,Transport,112.17,Debit
+2024-09-04,State Electricity Board Bill,Utilities,2214.04,Debit
+2024-09-04,Cafe Coffee Day,Food & Dining,885.93,Debit
+2024-09-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-09-05,Third Wave Coffee,Food & Dining,194.84,Debit
+2024-09-05,Swiggy,Food & Dining,794.62,Debit
+2024-09-05,More Supermarket,Groceries,1870.85,Debit
+2024-09-05,Zepto,Groceries,2950.92,Debit
+2024-09-06,Cafe Coffee Day,Food & Dining,1002.10,Debit
+2024-09-06,Rapido,Transport,474.48,Debit
+2024-09-06,Uber,Transport,528.95,Debit
+2024-09-06,The Permit Room,Dining Out,2022.71,Debit
+2024-09-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-09-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-09-09,Blinkit Cafe,Food & Dining,660.03,Debit
+2024-09-09,DMart,Groceries,2999.73,Debit
+2024-09-09,Amazon India,Shopping,2367.19,Debit
+2024-09-10,Swiggy,Food & Dining,948.78,Debit
+2024-09-11,Third Wave Coffee,Food & Dining,579.96,Debit
+2024-09-11,Ola Cabs,Transport,669.77,Debit
+2024-09-11,Namma Metro,Transport,574.31,Debit
+2024-09-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-09-12,BigBasket,Groceries,682.48,Debit
+2024-09-12,Rapido,Transport,767.52,Debit
+2024-09-13,Cafe Coffee Day,Food & Dining,601.88,Debit
+2024-09-13,Reliance Fresh,Groceries,2122.46,Debit
+2024-09-13,Namma Metro,Transport,133.04,Debit
+2024-09-13,Truffles,Dining Out,1101.94,Debit
+2024-09-15,Blinkit Cafe,Food & Dining,494.06,Debit
+2024-09-15,PharmEasy,Health,1075.80,Debit
+2024-09-15,The Permit Room,Dining Out,1697.87,Debit
+2024-09-16,Zomato,Food & Dining,811.05,Debit
+2024-09-16,Ola Cabs,Transport,867.46,Debit
+2024-09-17,Zomato,Food & Dining,435.30,Debit
+2024-09-17,Ola Cabs,Transport,843.14,Debit
+2024-09-17,Barbeque Nation,Dining Out,3796.71,Debit
+2024-09-18,Rapido,Transport,673.00,Debit
+2024-09-18,Reliance Digital,Electronics,63452.72,Debit
+2024-09-22,Third Wave Coffee,Food & Dining,610.89,Debit
+2024-09-23,Urban Ladder,Home & Furniture,15878.40,Debit
+2024-09-24,Third Wave Coffee,Food & Dining,219.48,Debit
+2024-09-24,Zomato,Food & Dining,371.13,Debit
+2024-09-24,Uber,Transport,526.04,Debit
+2024-09-24,Toit Brewpub,Dining Out,3847.81,Debit
+2024-09-25,Blinkit Cafe,Food & Dining,921.06,Debit
+2024-09-25,Toit Brewpub,Dining Out,3447.07,Debit
+2024-09-26,Ola Cabs,Transport,837.94,Debit
+2024-09-26,Steam Games,Entertainment,1777.38,Debit
+2024-09-26,Amazon India,Shopping,3746.23,Debit
+2024-09-27,Blinkit Cafe,Food & Dining,938.62,Debit
+2024-09-27,Cafe Coffee Day,Food & Dining,211.15,Debit
+2024-09-27,Reliance Fresh,Groceries,1790.10,Debit
+2024-09-30,Zomato,Food & Dining,544.07,Debit
+2024-09-30,Cafe Coffee Day,Food & Dining,503.21,Debit
+2024-09-30,Cafe Coffee Day,Food & Dining,849.06,Debit
+2024-10-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2024-10-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-10-01,PharmEasy,Health,1462.39,Debit
+2024-10-02,Zomato,Food & Dining,812.82,Debit
+2024-10-02,DMart,Groceries,3309.87,Debit
+2024-10-02,Ola Cabs,Transport,399.83,Debit
+2024-10-02,Ajio,Shopping,4356.96,Debit
+2024-10-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-10-03,Third Wave Coffee,Food & Dining,454.34,Debit
+2024-10-04,State Electricity Board Bill,Utilities,1819.01,Debit
+2024-10-04,Reliance Fresh,Groceries,2202.48,Debit
+2024-10-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-10-06,Third Wave Coffee,Food & Dining,525.07,Debit
+2024-10-06,BigBasket,Groceries,2599.84,Debit
+2024-10-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-10-07,Blinkit Cafe,Food & Dining,429.07,Debit
+2024-10-07,Third Wave Coffee,Food & Dining,677.30,Debit
+2024-10-07,Namma Metro,Transport,227.54,Debit
+2024-10-07,BookMyShow,Entertainment,711.44,Debit
+2024-10-08,Toit Brewpub,Dining Out,1488.14,Debit
+2024-10-08,Amazon India,Shopping,7061.77,Debit
+2024-10-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-10-09,Swiggy,Food & Dining,495.30,Debit
+2024-10-09,Uber,Transport,248.13,Debit
+2024-10-10,More Supermarket,Groceries,2326.77,Debit
+2024-10-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-10-12,Swiggy,Food & Dining,349.52,Debit
+2024-10-13,Swiggy,Food & Dining,266.90,Debit
+2024-10-13,Ajio,Shopping,2317.48,Debit
+2024-10-14,Namma Metro,Transport,608.89,Debit
+2024-10-15,Third Wave Coffee,Food & Dining,868.29,Debit
+2024-10-15,Amazon India,Shopping,3177.69,Debit
+2024-10-16,Zomato,Food & Dining,915.10,Debit
+2024-10-16,Zomato,Food & Dining,232.14,Debit
+2024-10-16,Rapido,Transport,631.30,Debit
+2024-10-17,Rapido,Transport,927.89,Debit
+2024-10-18,Namma Metro,Transport,438.95,Debit
+2024-10-19,Cafe Coffee Day,Food & Dining,784.23,Debit
+2024-10-19,Practo Consultation,Health,2048.34,Debit
+2024-10-21,Zomato,Food & Dining,925.61,Debit
+2024-10-21,Zepto,Groceries,2462.57,Debit
+2024-10-22,Cafe Coffee Day,Food & Dining,1037.91,Debit
+2024-10-22,Zomato,Food & Dining,891.95,Debit
+2024-10-22,More Supermarket,Groceries,918.95,Debit
+2024-10-22,Namma Metro,Transport,376.26,Debit
+2024-10-23,BigBasket,Groceries,2201.71,Debit
+2024-10-23,IRCTC,Travel,5504.85,Debit
+2024-10-24,Indian Oil Fuel,Transport,157.16,Debit
+2024-10-24,Namma Metro,Transport,174.07,Debit
+2024-10-24,Udemy,Education,537.78,Debit
+2024-10-25,The Permit Room,Dining Out,3936.29,Debit
+2024-10-28,Barbeque Nation,Dining Out,2744.93,Debit
+2024-10-29,Zomato,Food & Dining,527.29,Debit
+2024-10-30,Indian Oil Fuel,Transport,352.47,Debit
+2024-10-30,Rapido,Transport,531.07,Debit
+2024-10-30,Namma Metro,Transport,669.00,Debit
+2024-10-30,Decathlon,Shopping,5830.39,Debit
+2024-10-31,Blinkit Cafe,Food & Dining,1034.71,Debit
+2024-10-31,Uber,Transport,179.99,Debit
+2024-10-31,Indian Oil Fuel,Transport,920.57,Debit
+2024-10-31,Amazon India,Shopping,4433.49,Debit
+2024-11-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2024-11-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-11-01,Namma Metro,Transport,894.16,Debit
+2024-11-01,Ajio,Shopping,7585.17,Debit
+2024-11-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-11-04,State Electricity Board Bill,Utilities,2399.18,Debit
+2024-11-04,More Supermarket,Groceries,3234.58,Debit
+2024-11-04,Amazon India,Shopping,6648.77,Debit
+2024-11-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-11-05,Indian Oil Fuel,Transport,125.92,Debit
+2024-11-05,PVR Cinemas,Entertainment,477.41,Debit
+2024-11-06,BookMyShow,Entertainment,713.67,Debit
+2024-11-06,PharmEasy,Health,1403.11,Debit
+2024-11-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-11-07,Swiggy,Food & Dining,429.97,Debit
+2024-11-07,Uber,Transport,811.62,Debit
+2024-11-08,Third Wave Coffee,Food & Dining,472.26,Debit
+2024-11-08,Third Wave Coffee,Food & Dining,159.02,Debit
+2024-11-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-11-11,Namma Metro,Transport,455.47,Debit
+2024-11-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-11-13,O'Reilly Learning,Education,2112.80,Debit
+2024-11-14,Blinkit Cafe,Food & Dining,1037.14,Debit
+2024-11-14,BigBasket,Groceries,3062.66,Debit
+2024-11-14,DMart,Groceries,2499.73,Debit
+2024-11-14,Namma Metro,Transport,97.69,Debit
+2024-11-14,Ola Cabs,Transport,593.99,Debit
+2024-11-14,Amazon India,Shopping,6756.46,Debit
+2024-11-15,Zepto,Groceries,2899.77,Debit
+2024-11-15,Reliance Fresh,Groceries,1161.73,Debit
+2024-11-16,Zomato,Food & Dining,399.42,Debit
+2024-11-16,Toit Brewpub,Dining Out,1567.27,Debit
+2024-11-17,Zomato,Food & Dining,867.42,Debit
+2024-11-17,Swiggy,Food & Dining,818.34,Debit
+2024-11-18,Zomato,Food & Dining,723.15,Debit
+2024-11-18,Blinkit Cafe,Food & Dining,769.24,Debit
+2024-11-18,Zepto,Groceries,2483.67,Debit
+2024-11-19,Zomato,Food & Dining,501.35,Debit
+2024-11-19,Myntra,Shopping,4141.38,Debit
+2024-11-20,Zomato,Food & Dining,661.54,Debit
+2024-11-20,Barbeque Nation,Dining Out,1042.27,Debit
+2024-11-20,Toit Brewpub,Dining Out,2932.76,Debit
+2024-11-21,Cafe Coffee Day,Food & Dining,576.30,Debit
+2024-11-21,Ola Cabs,Transport,538.77,Debit
+2024-11-22,DMart,Groceries,579.33,Debit
+2024-11-23,Cafe Coffee Day,Food & Dining,621.48,Debit
+2024-11-23,Cafe Coffee Day,Food & Dining,567.56,Debit
+2024-11-23,Zomato,Food & Dining,548.75,Debit
+2024-11-25,Blinkit Cafe,Food & Dining,842.75,Debit
+2024-11-26,Cafe Coffee Day,Food & Dining,754.25,Debit
+2024-11-26,Ola Cabs,Transport,739.69,Debit
+2024-11-27,Swiggy,Food & Dining,717.98,Debit
+2024-11-27,Cafe Coffee Day,Food & Dining,956.42,Debit
+2024-11-27,Blinkit Cafe,Food & Dining,810.17,Debit
+2024-11-27,BigBasket,Groceries,3200.67,Debit
+2024-11-27,Namma Metro,Transport,152.02,Debit
+2024-11-28,Ola Cabs,Transport,568.75,Debit
+2024-11-29,Namma Metro,Transport,622.95,Debit
+2024-11-29,Uber,Transport,142.62,Debit
+2024-11-29,Namma Metro,Transport,938.36,Debit
+2024-12-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2024-12-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2024-12-01,Blinkit Cafe,Food & Dining,843.79,Debit
+2024-12-02,Cafe Coffee Day,Food & Dining,252.48,Debit
+2024-12-02,Third Wave Coffee,Food & Dining,387.76,Debit
+2024-12-02,DMart,Groceries,1596.20,Debit
+2024-12-02,Indian Oil Fuel,Transport,718.09,Debit
+2024-12-02,Myntra,Shopping,3071.84,Debit
+2024-12-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2024-12-03,Third Wave Coffee,Food & Dining,243.31,Debit
+2024-12-03,PVR Cinemas,Entertainment,1756.13,Debit
+2024-12-04,State Electricity Board Bill,Utilities,2940.41,Debit
+2024-12-04,Ola Cabs,Transport,212.54,Debit
+2024-12-04,Uber,Transport,849.62,Debit
+2024-12-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2024-12-05,Blinkit Cafe,Food & Dining,782.54,Debit
+2024-12-05,Rapido,Transport,506.55,Debit
+2024-12-07,Netflix Subscription,Subscriptions,649.00,Debit
+2024-12-07,Cafe Coffee Day,Food & Dining,941.70,Debit
+2024-12-08,Cafe Coffee Day,Food & Dining,551.51,Debit
+2024-12-08,Cafe Coffee Day,Food & Dining,166.46,Debit
+2024-12-08,Blinkit Cafe,Food & Dining,773.78,Debit
+2024-12-09,Spotify Premium,Subscriptions,119.00,Debit
+2024-12-09,Namma Metro,Transport,400.55,Debit
+2024-12-10,Zomato,Food & Dining,1030.99,Debit
+2024-12-10,Zepto,Groceries,2182.96,Debit
+2024-12-11,Reliance Fresh,Groceries,1077.25,Debit
+2024-12-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2024-12-12,Zomato,Food & Dining,747.58,Debit
+2024-12-12,Reliance Fresh,Groceries,1868.48,Debit
+2024-12-12,More Supermarket,Groceries,2509.93,Debit
+2024-12-12,Rapido,Transport,550.91,Debit
+2024-12-12,Truffles,Dining Out,1839.53,Debit
+2024-12-13,Third Wave Coffee,Food & Dining,225.78,Debit
+2024-12-16,Uber,Transport,730.99,Debit
+2024-12-16,The Permit Room,Dining Out,3990.05,Debit
+2024-12-17,Uber,Transport,101.13,Debit
+2024-12-17,The Permit Room,Dining Out,3534.30,Debit
+2024-12-18,Third Wave Coffee,Food & Dining,208.58,Debit
+2024-12-18,BookMyShow,Entertainment,1280.34,Debit
+2024-12-18,Ajio,Shopping,1112.41,Debit
+2024-12-19,Zomato,Food & Dining,398.28,Debit
+2024-12-19,Urban Ladder,Home & Furniture,15791.21,Debit
+2024-12-20,Ola Cabs,Transport,838.47,Debit
+2024-12-20,Uber,Transport,125.15,Debit
+2024-12-21,Cafe Coffee Day,Food & Dining,831.75,Debit
+2024-12-22,Barbeque Nation,Dining Out,3163.85,Debit
+2024-12-23,Namma Metro,Transport,793.46,Debit
+2024-12-24,Udemy,Education,4795.76,Debit
+2024-12-27,Cafe Coffee Day,Food & Dining,750.72,Debit
+2024-12-28,Cafe Coffee Day,Food & Dining,510.60,Debit
+2024-12-29,Zomato,Food & Dining,866.16,Debit
+2024-12-30,Rapido,Transport,910.47,Debit
+2024-12-31,Cafe Coffee Day,Food & Dining,527.29,Debit
+2024-12-31,Reliance Fresh,Groceries,3068.52,Debit
+2025-01-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2025-01-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2025-01-01,Zepto,Groceries,3083.07,Debit
+2025-01-01,Uber,Transport,154.67,Debit
+2025-01-01,Ola Cabs,Transport,175.99,Debit
+2025-01-02,Ola Cabs,Transport,285.23,Debit
+2025-01-02,The Permit Room,Dining Out,3783.75,Debit
+2025-01-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2025-01-03,Toit Brewpub,Dining Out,2162.30,Debit
+2025-01-04,State Electricity Board Bill,Utilities,2914.33,Debit
+2025-01-04,IKEA,Home & Furniture,23359.20,Debit
+2025-01-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2025-01-05,Zomato,Food & Dining,181.15,Debit
+2025-01-05,Third Wave Coffee,Food & Dining,934.31,Debit
+2025-01-05,Toit Brewpub,Dining Out,2061.50,Debit
+2025-01-06,Swiggy,Food & Dining,1067.01,Debit
+2025-01-07,Netflix Subscription,Subscriptions,649.00,Debit
+2025-01-07,Uber,Transport,750.37,Debit
+2025-01-07,Amazon India,Shopping,1947.43,Debit
+2025-01-09,Spotify Premium,Subscriptions,119.00,Debit
+2025-01-09,Swiggy,Food & Dining,154.87,Debit
+2025-01-09,Rapido,Transport,564.08,Debit
+2025-01-11,Cafe Coffee Day,Food & Dining,561.37,Debit
+2025-01-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2025-01-14,Zomato,Food & Dining,827.98,Debit
+2025-01-15,Rapido,Transport,737.72,Debit
+2025-01-16,Ola Cabs,Transport,180.14,Debit
+2025-01-16,Truffles,Dining Out,4020.22,Debit
+2025-01-19,Blinkit Cafe,Food & Dining,543.69,Debit
+2025-01-19,Amazon India,Shopping,5899.29,Debit
+2025-01-20,Indian Oil Fuel,Transport,796.13,Debit
+2025-01-21,Swiggy,Food & Dining,471.76,Debit
+2025-01-21,Third Wave Coffee,Food & Dining,992.14,Debit
+2025-01-21,Third Wave Coffee,Food & Dining,469.94,Debit
+2025-01-21,Cafe Coffee Day,Food & Dining,239.78,Debit
+2025-01-21,Reliance Fresh,Groceries,2421.06,Debit
+2025-01-21,DMart,Groceries,1857.77,Debit
+2025-01-21,Rapido,Transport,185.02,Debit
+2025-01-21,Ola Cabs,Transport,87.24,Debit
+2025-01-22,Swiggy,Food & Dining,801.51,Debit
+2025-01-22,Uber,Transport,140.35,Debit
+2025-01-23,Cafe Coffee Day,Food & Dining,820.85,Debit
+2025-01-23,Zepto,Groceries,2510.52,Debit
+2025-01-23,Uber,Transport,318.78,Debit
+2025-01-23,Steam Games,Entertainment,1842.80,Debit
+2025-01-23,Truffles,Dining Out,2202.58,Debit
+2025-01-24,Cafe Coffee Day,Food & Dining,289.33,Debit
+2025-01-24,Airbnb,Travel,7605.02,Debit
+2025-01-25,Namma Metro,Transport,181.12,Debit
+2025-01-25,Barbeque Nation,Dining Out,4127.54,Debit
+2025-01-26,Freelance Project Payment,Income,36360.21,Credit
+2025-01-27,Zomato,Food & Dining,593.39,Debit
+2025-01-27,More Supermarket,Groceries,1166.21,Debit
+2025-01-28,Zomato,Food & Dining,158.08,Debit
+2025-01-28,Zepto,Groceries,2952.03,Debit
+2025-01-28,Indian Oil Fuel,Transport,238.96,Debit
+2025-01-28,Uber,Transport,720.46,Debit
+2025-01-28,Rapido,Transport,922.97,Debit
+2025-01-29,Zomato,Food & Dining,164.64,Debit
+2025-01-29,Blinkit Cafe,Food & Dining,430.68,Debit
+2025-01-30,Blinkit Cafe,Food & Dining,599.58,Debit
+2025-01-30,Ola Cabs,Transport,318.68,Debit
+2025-01-30,Myntra,Shopping,6500.57,Debit
+2025-01-31,Zepto,Groceries,1828.08,Debit
+2025-02-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2025-02-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2025-02-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2025-02-03,Blinkit Cafe,Food & Dining,774.73,Debit
+2025-02-03,Swiggy,Food & Dining,390.16,Debit
+2025-02-03,Rapido,Transport,337.48,Debit
+2025-02-04,State Electricity Board Bill,Utilities,2821.75,Debit
+2025-02-04,Rapido,Transport,734.45,Debit
+2025-02-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2025-02-05,Ola Cabs,Transport,233.11,Debit
+2025-02-05,Indian Oil Fuel,Transport,959.23,Debit
+2025-02-05,Toit Brewpub,Dining Out,3263.36,Debit
+2025-02-07,Netflix Subscription,Subscriptions,649.00,Debit
+2025-02-08,Rapido,Transport,985.73,Debit
+2025-02-09,Spotify Premium,Subscriptions,119.00,Debit
+2025-02-09,Zomato,Food & Dining,437.88,Debit
+2025-02-10,Uber,Transport,322.23,Debit
+2025-02-10,Rapido,Transport,548.18,Debit
+2025-02-10,Indian Oil Fuel,Transport,477.92,Debit
+2025-02-11,Ola Cabs,Transport,154.06,Debit
+2025-02-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2025-02-12,Swiggy,Food & Dining,670.00,Debit
+2025-02-12,Cafe Coffee Day,Food & Dining,392.69,Debit
+2025-02-12,Indian Oil Fuel,Transport,506.95,Debit
+2025-02-13,Indian Oil Fuel,Transport,155.21,Debit
+2025-02-13,BookMyShow,Entertainment,761.90,Debit
+2025-02-13,Udemy,Education,1510.54,Debit
+2025-02-14,Zomato,Food & Dining,681.01,Debit
+2025-02-14,DMart,Groceries,615.64,Debit
+2025-02-14,Uber,Transport,928.72,Debit
+2025-02-14,Apollo Pharmacy,Health,2166.23,Debit
+2025-02-15,Cafe Coffee Day,Food & Dining,577.81,Debit
+2025-02-15,Cafe Coffee Day,Food & Dining,1067.75,Debit
+2025-02-15,BigBasket,Groceries,1679.46,Debit
+2025-02-16,Cafe Coffee Day,Food & Dining,803.74,Debit
+2025-02-16,Toit Brewpub,Dining Out,3154.85,Debit
+2025-02-17,Swiggy,Food & Dining,771.95,Debit
+2025-02-17,Indian Oil Fuel,Transport,555.93,Debit
+2025-02-17,Rapido,Transport,975.69,Debit
+2025-02-17,Namma Metro,Transport,158.53,Debit
+2025-02-17,Rapido,Transport,97.55,Debit
+2025-02-18,Freelance Project Payment,Income,44045.22,Credit
+2025-02-18,Swiggy,Food & Dining,1068.79,Debit
+2025-02-18,More Supermarket,Groceries,2265.70,Debit
+2025-02-20,Third Wave Coffee,Food & Dining,828.45,Debit
+2025-02-20,BigBasket,Groceries,3433.97,Debit
+2025-02-21,Zomato,Food & Dining,518.22,Debit
+2025-02-21,Third Wave Coffee,Food & Dining,917.52,Debit
+2025-02-21,More Supermarket,Groceries,1044.56,Debit
+2025-02-22,Truffles,Dining Out,1334.67,Debit
+2025-02-23,Cafe Coffee Day,Food & Dining,734.16,Debit
+2025-02-24,Blinkit Cafe,Food & Dining,883.55,Debit
+2025-02-24,More Supermarket,Groceries,3289.47,Debit
+2025-02-26,Amazon India,Shopping,4247.31,Debit
+2025-02-27,Apollo Pharmacy,Health,1857.41,Debit
+2025-03-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2025-03-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2025-03-01,Decathlon,Shopping,1653.80,Debit
+2025-03-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2025-03-03,Blinkit Cafe,Food & Dining,474.04,Debit
+2025-03-03,BigBasket,Groceries,3193.74,Debit
+2025-03-04,State Electricity Board Bill,Utilities,3132.46,Debit
+2025-03-04,Swiggy,Food & Dining,238.89,Debit
+2025-03-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2025-03-05,Namma Metro,Transport,566.57,Debit
+2025-03-05,Namma Metro,Transport,121.90,Debit
+2025-03-06,Blinkit Cafe,Food & Dining,361.07,Debit
+2025-03-06,Zepto,Groceries,1587.79,Debit
+2025-03-07,Netflix Subscription,Subscriptions,649.00,Debit
+2025-03-08,Zomato,Food & Dining,614.39,Debit
+2025-03-08,Zomato,Food & Dining,372.39,Debit
+2025-03-09,Spotify Premium,Subscriptions,119.00,Debit
+2025-03-10,Zomato,Food & Dining,891.90,Debit
+2025-03-10,Blinkit Cafe,Food & Dining,419.55,Debit
+2025-03-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2025-03-12,Cafe Coffee Day,Food & Dining,501.69,Debit
+2025-03-12,BigBasket,Groceries,2639.34,Debit
+2025-03-12,Indian Oil Fuel,Transport,834.28,Debit
+2025-03-12,Namma Metro,Transport,379.70,Debit
+2025-03-12,Indian Oil Fuel,Transport,663.75,Debit
+2025-03-12,Uber,Transport,397.12,Debit
+2025-03-13,Barbeque Nation,Dining Out,3778.58,Debit
+2025-03-14,Decathlon,Shopping,4465.22,Debit
+2025-03-14,Ajio,Shopping,6540.56,Debit
+2025-03-15,Blinkit Cafe,Food & Dining,855.00,Debit
+2025-03-15,Toit Brewpub,Dining Out,2801.07,Debit
+2025-03-16,DMart,Groceries,1954.73,Debit
+2025-03-17,Blinkit Cafe,Food & Dining,931.46,Debit
+2025-03-17,Indian Oil Fuel,Transport,303.71,Debit
+2025-03-17,Indian Oil Fuel,Transport,422.39,Debit
+2025-03-18,Swiggy,Food & Dining,354.42,Debit
+2025-03-18,PVR Cinemas,Entertainment,1056.56,Debit
+2025-03-18,Toit Brewpub,Dining Out,3312.95,Debit
+2025-03-19,Uber,Transport,251.79,Debit
+2025-03-19,Namma Metro,Transport,664.28,Debit
+2025-03-20,Indian Oil Fuel,Transport,226.63,Debit
+2025-03-21,Blinkit Cafe,Food & Dining,556.62,Debit
+2025-03-22,Truffles,Dining Out,2253.12,Debit
+2025-03-23,Cafe Coffee Day,Food & Dining,365.99,Debit
+2025-03-23,Steam Games,Entertainment,1576.45,Debit
+2025-03-24,Rapido,Transport,646.81,Debit
+2025-03-25,Zomato,Food & Dining,947.32,Debit
+2025-03-25,Blinkit Cafe,Food & Dining,216.27,Debit
+2025-03-25,BigBasket,Groceries,1398.49,Debit
+2025-03-25,Indian Oil Fuel,Transport,452.26,Debit
+2025-03-26,Blinkit Cafe,Food & Dining,598.69,Debit
+2025-03-26,Zomato,Food & Dining,463.28,Debit
+2025-03-27,Zomato,Food & Dining,658.88,Debit
+2025-03-28,Blinkit Cafe,Food & Dining,554.19,Debit
+2025-03-28,Zomato,Food & Dining,1025.45,Debit
+2025-03-28,Indian Oil Fuel,Transport,987.78,Debit
+2025-03-29,BigBasket,Groceries,1976.05,Debit
+2025-03-29,PVR Cinemas,Entertainment,1217.81,Debit
+2025-03-30,Blinkit Cafe,Food & Dining,489.31,Debit
+2025-03-31,Swiggy,Food & Dining,765.98,Debit
+2025-04-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2025-04-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2025-04-01,Swiggy,Food & Dining,961.83,Debit
+2025-04-01,Toit Brewpub,Dining Out,3368.03,Debit
+2025-04-02,Swiggy,Food & Dining,216.14,Debit
+2025-04-02,Swiggy,Food & Dining,893.19,Debit
+2025-04-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2025-04-03,Zomato,Food & Dining,615.59,Debit
+2025-04-03,Swiggy,Food & Dining,491.61,Debit
+2025-04-03,Indian Oil Fuel,Transport,155.30,Debit
+2025-04-03,Metro Card Recharge,,300.00,Debit
+2025-04-03,,Transport,220.00,Debit
+2025-04-03,Vijay Sales,Electronics,"₹1,250.00",Debit
+2025-04-04,State Electricity Board Bill,Utilities,2199.19,Debit
+2025-04-04,Reliance Fresh,Groceries,2861.69,Debit
+2025-04-04,Indian Oil Fuel,Transport,245.75,Debit
+2025-04-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2025-04-05,Swiggy,Food & Dining,185.89,Debit
+2025-04-05,Cafe Coffee Day,Food & Dining,691.25,Debit
+2025-04-05,Decathlon,Shopping,1806.29,Debit
+2025-04-07,Netflix Subscription,Subscriptions,649.00,Debit
+2025-04-08,Swiggy,Food & Dining,178.77,Debit
+2025-04-08,Ola Cabs,Transport,498.59,Debit
+2025-04-09,Spotify Premium,Subscriptions,119.00,Debit
+2025-04-09,Uber,Transport,853.63,Debit
+2025-04-10,Cafe Coffee Day,Food & Dining,764.24,Debit
+2025-04-10,Cafe Coffee Day,Food & Dining,1052.44,Debit
+2025-04-11,BigBasket,Groceries,2558.07,Debit
+2025-04-11,BookMyShow,Entertainment,1674.97,Debit
+2025-04-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2025-04-12,Zomato,Food & Dining,973.09,Debit
+2025-04-12,Toit Brewpub,Dining Out,2124.31,Debit
+2025-04-13,PVR Cinemas,Entertainment,1873.89,Debit
+2025-04-14,Swiggy,Food & Dining,687.38,Debit
+2025-04-14,Blinkit Cafe,Food & Dining,189.49,Debit
+2025-04-14,BigBasket,Groceries,1922.32,Debit
+2025-04-14,Rapido,Transport,948.66,Debit
+2025-04-15,Ola Cabs,Transport,364.95,Debit
+2025-04-15,Uber,Transport,863.39,Debit
+2025-04-16,Third Wave Coffee,Food & Dining,971.83,Debit
+2025-04-16,Swiggy,Food & Dining,1058.42,Debit
+2025-04-16,Reliance Fresh,Groceries,2799.78,Debit
+2025-04-18,More Supermarket,Groceries,2909.72,Debit
+2025-04-21,Freelance Project Payment,Income,21902.13,Credit
+2025-04-21,Barbeque Nation,Dining Out,1411.57,Debit
+2025-04-21,Amazon India,Shopping,1490.78,Debit
+2025-04-21,Myntra,Shopping,1197.61,Debit
+2025-04-23,Cafe Coffee Day,Food & Dining,1046.90,Debit
+2025-04-24,More Supermarket,Groceries,1538.33,Debit
+2025-04-27,Ola Cabs,Transport,770.15,Debit
+2025-04-28,Swiggy,Food & Dining,513.92,Debit
+2025-04-28,Ola Cabs,Transport,482.23,Debit
+2025-04-29,Namma Metro,Transport,297.60,Debit
+2025-04-30,BigBasket,Groceries,704.04,Debit
+2025-04-30,Rapido,Transport,886.44,Debit
+2025-04-30,Uber,Transport,123.42,Debit
+2025-05-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2025-05-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2025-05-01,Swiggy,Food & Dining,265.93,Debit
+2025-05-01,Reliance Fresh,Groceries,892.72,Debit
+2025-05-02,Indian Oil Fuel,Transport,314.52,Debit
+2025-05-02,Namma Metro,Transport,395.92,Debit
+2025-05-02,Rapido,Transport,261.15,Debit
+2025-05-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2025-05-03,The Permit Room,Dining Out,2044.88,Debit
+2025-05-04,State Electricity Board Bill,Utilities,1757.21,Debit
+2025-05-04,Zomato,Food & Dining,381.53,Debit
+2025-05-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2025-05-06,Zomato,Food & Dining,228.39,Debit
+2025-05-06,Indian Oil Fuel,Transport,519.94,Debit
+2025-05-07,Netflix Subscription,Subscriptions,649.00,Debit
+2025-05-07,Practo Consultation,Health,912.57,Debit
+2025-05-08,Zomato,Food & Dining,390.62,Debit
+2025-05-08,Swiggy,Food & Dining,719.02,Debit
+2025-05-08,Rapido,Transport,838.73,Debit
+2025-05-08,PVR Cinemas,Entertainment,1451.28,Debit
+2025-05-08,The Permit Room,Dining Out,3721.99,Debit
+2025-05-09,Spotify Premium,Subscriptions,119.00,Debit
+2025-05-09,Zomato,Food & Dining,388.56,Debit
+2025-05-09,Rapido,Transport,105.10,Debit
+2025-05-09,Rapido,Transport,105.10,Debit
+2025-05-11,Swiggy,Food & Dining,643.91,Debit
+2025-05-11,Blinkit Cafe,Food & Dining,859.09,Debit
+2025-05-11,Uber,Transport,328.07,Debit
+2025-05-11,Barbeque Nation,Dining Out,3457.64,Debit
+2025-05-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2025-05-12,Ola Cabs,Transport,651.95,Debit
+2025-05-13,More Supermarket,Groceries,1587.81,Debit
+2025-05-14,Cafe Coffee Day,Food & Dining,974.21,Debit
+2025-05-15,Third Wave Coffee,Food & Dining,631.88,Debit
+2025-05-15,Third Wave Coffee,Food & Dining,811.87,Debit
+2025-05-15,Namma Metro,Transport,415.77,Debit
+2025-05-16,Uber,Transport,216.50,Debit
+2025-05-16,Namma Metro,Transport,160.01,Debit
+2025-05-18,Ajio,Shopping,1251.20,Debit
+2025-05-19,DMart,Groceries,2327.02,Debit
+2025-05-19,Barbeque Nation,Dining Out,1139.45,Debit
+2025-05-20,Zomato,Food & Dining,962.99,Debit
+2025-05-20,Zomato,Food & Dining,883.90,Debit
+2025-05-20,Third Wave Coffee,Food & Dining,441.09,Debit
+2025-05-20,Namma Metro,Transport,678.94,Debit
+2025-05-21,Third Wave Coffee,Food & Dining,654.14,Debit
+2025-05-21,Cafe Coffee Day,Food & Dining,618.18,Debit
+2025-05-21,More Supermarket,Groceries,1256.17,Debit
+2025-05-21,Uber,Transport,348.64,Debit
+2025-05-21,BookMyShow,Entertainment,1507.16,Debit
+2025-05-21,Apollo Pharmacy,Health,1674.29,Debit
+2025-05-21,Decathlon,Shopping,6082.94,Debit
+2025-05-22,Cafe Coffee Day,Food & Dining,1038.70,Debit
+2025-05-23,Zomato,Food & Dining,794.65,Debit
+2025-05-23,Zepto,Groceries,1257.33,Debit
+2025-05-23,DMart,Groceries,811.82,Debit
+2025-05-23,BookMyShow,Entertainment,712.41,Debit
+2025-05-25,Cafe Coffee Day,Food & Dining,831.11,Debit
+2025-05-26,Rapido,Transport,680.58,Debit
+2025-05-27,Namma Metro,Transport,327.21,Debit
+2025-05-29,Zomato,Food & Dining,783.49,Debit
+2025-05-30,More Supermarket,Groceries,1129.68,Debit
+2025-05-30,Zepto,Groceries,1396.75,Debit
+2025-05-31,Third Wave Coffee,Food & Dining,208.76,Debit
+2025-06-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2025-06-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2025-06-01,Cafe Coffee Day,Food & Dining,294.14,Debit
+2025-06-01,DMart,Groceries,927.99,Debit
+2025-06-02,Zomato,Food & Dining,760.27,Debit
+2025-06-02,Blinkit Cafe,Food & Dining,413.99,Debit
+2025-06-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2025-06-03,Third Wave Coffee,Food & Dining,799.34,Debit
+2025-06-03,Steam Games,Entertainment,1083.53,Debit
+2025-06-04,State Electricity Board Bill,Utilities,1892.85,Debit
+2025-06-04,Reliance Fresh,Groceries,1171.68,Debit
+2025-06-04,BigBasket,Groceries,1671.13,Debit
+2025-06-04,Ajio,Shopping,4704.08,Debit
+2025-06-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2025-06-05,Namma Metro,Transport,920.17,Debit
+2025-06-05,Steam Games,Entertainment,675.95,Debit
+2025-06-06,Swiggy,Food & Dining,306.08,Debit
+2025-06-06,Namma Metro,Transport,472.17,Debit
+2025-06-07,Netflix Subscription,Subscriptions,649.00,Debit
+2025-06-07,Cafe Coffee Day,Food & Dining,1051.58,Debit
+2025-06-08,Swiggy,Food & Dining,561.47,Debit
+2025-06-08,Cafe Coffee Day,Food & Dining,961.47,Debit
+2025-06-08,Uber,Transport,800.22,Debit
+2025-06-08,Truffles,Dining Out,1725.50,Debit
+2025-06-08,Apple Store,Electronics,78051.34,Debit
+2025-06-09,Spotify Premium,Subscriptions,119.00,Debit
+2025-06-09,Namma Metro,Transport,771.35,Debit
+2025-06-11,Zomato,Food & Dining,870.93,Debit
+2025-06-11,Rapido,Transport,114.34,Debit
+2025-06-11,Indian Oil Fuel,Transport,452.54,Debit
+2025-06-11,Myntra,Shopping,3707.61,Debit
+2025-06-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2025-06-12,Cafe Coffee Day,Food & Dining,812.20,Debit
+2025-06-12,Zepto,Groceries,1538.78,Debit
+2025-06-13,Zomato,Food & Dining,188.02,Debit
+2025-06-13,Rapido,Transport,235.49,Debit
+2025-06-13,Steam Games,Entertainment,750.95,Debit
+2025-06-14,Zomato,Food & Dining,490.66,Debit
+2025-06-14,Myntra,Shopping,876.84,Debit
+2025-06-15,Uber,Transport,225.36,Debit
+2025-06-15,Barbeque Nation,Dining Out,1807.53,Debit
+2025-06-17,Third Wave Coffee,Food & Dining,370.02,Debit
+2025-06-18,Blinkit Cafe,Food & Dining,901.86,Debit
+2025-06-18,Zomato,Food & Dining,593.23,Debit
+2025-06-18,Toit Brewpub,Dining Out,3607.70,Debit
+2025-06-19,Namma Metro,Transport,994.19,Debit
+2025-06-19,Ola Cabs,Transport,925.55,Debit
+2025-06-20,Zomato,Food & Dining,725.52,Debit
+2025-06-20,Zomato,Food & Dining,698.47,Debit
+2025-06-20,Zepto,Groceries,2248.05,Debit
+2025-06-20,Indian Oil Fuel,Transport,91.16,Debit
+2025-06-26,Cafe Coffee Day,Food & Dining,922.10,Debit
+2025-06-26,Swiggy,Food & Dining,475.10,Debit
+2025-06-26,Reliance Fresh,Groceries,2640.56,Debit
+2025-06-26,Ola Cabs,Transport,495.22,Debit
+2025-06-27,More Supermarket,Groceries,2407.76,Debit
+2025-06-27,Namma Metro,Transport,376.79,Debit
+2025-06-27,Namma Metro,Transport,605.57,Debit
+2025-06-29,Barbeque Nation,Dining Out,1758.87,Debit
+2025-06-30,Zomato,Food & Dining,924.64,Debit
+2025-07-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2025-07-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2025-07-01,Swiggy,Food & Dining,611.33,Debit
+2025-07-01,Third Wave Coffee,Food & Dining,1062.08,Debit
+2025-07-02,Third Wave Coffee,Food & Dining,733.72,Debit
+2025-07-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2025-07-03,Uber,Transport,538.81,Debit
+2025-07-03,Pepperfry,Home & Furniture,19037.91,Debit
+2025-07-04,State Electricity Board Bill,Utilities,2184.74,Debit
+2025-07-04,Zepto,Groceries,696.19,Debit
+2025-07-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2025-07-05,Blinkit Cafe,Food & Dining,339.21,Debit
+2025-07-05,Rapido,Transport,571.74,Debit
+2025-07-05,Barbeque Nation,Dining Out,1681.75,Debit
+2025-07-06,Cafe Coffee Day,Food & Dining,571.81,Debit
+2025-07-07,Netflix Subscription,Subscriptions,649.00,Debit
+2025-07-08,Third Wave Coffee,Food & Dining,623.40,Debit
+2025-07-08,Cafe Coffee Day,Food & Dining,477.29,Debit
+2025-07-08,Indian Oil Fuel,Transport,909.59,Debit
+2025-07-08,Rapido,Transport,140.85,Debit
+2025-07-08,Indian Oil Fuel,Transport,854.59,Debit
+2025-07-08,Indian Oil Fuel,Transport,196.57,Debit
+2025-07-08,Ajio,Shopping,1358.44,Debit
+2025-07-09,Spotify Premium,Subscriptions,119.00,Debit
+2025-07-09,Blinkit Cafe,Food & Dining,631.52,Debit
+2025-07-09,Swiggy,Food & Dining,983.23,Debit
+2025-07-09,Namma Metro,Transport,148.39,Debit
+2025-07-10,Mutual Fund Dividend Payout,Income,6899.06,Credit
+2025-07-10,Rapido,Transport,472.84,Debit
+2025-07-10,O'Reilly Learning,Education,2833.70,Debit
+2025-07-11,Uber,Transport,487.19,Debit
+2025-07-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2025-07-12,Swiggy,Food & Dining,762.30,Debit
+2025-07-12,Swiggy,Food & Dining,346.37,Debit
+2025-07-12,Ola Cabs,Transport,373.76,Debit
+2025-07-12,Steam Games,Entertainment,927.66,Debit
+2025-07-14,Swiggy,Food & Dining,381.50,Debit
+2025-07-14,DMart,Groceries,458.98,Debit
+2025-07-14,Barbeque Nation,Dining Out,3815.48,Debit
+2025-07-15,Zomato,Food & Dining,752.62,Debit
+2025-07-16,Cafe Coffee Day,Food & Dining,231.31,Debit
+2025-07-16,Cafe Coffee Day,Food & Dining,738.65,Debit
+2025-07-17,Cafe Coffee Day,Food & Dining,352.50,Debit
+2025-07-17,Uber,Transport,642.66,Debit
+2025-07-18,Third Wave Coffee,Food & Dining,376.25,Debit
+2025-07-20,Truffles,Dining Out,3270.93,Debit
+2025-07-21,Rapido,Transport,518.00,Debit
+2025-07-21,BookMyShow,Entertainment,824.29,Debit
+2025-07-22,BookMyShow,Entertainment,1217.71,Debit
+2025-07-23,Blinkit Cafe,Food & Dining,729.55,Debit
+2025-07-23,Amazon India,Shopping,4586.22,Debit
+2025-07-24,Freelance Project Payment,Income,24009.61,Credit
+2025-07-24,Zomato,Food & Dining,264.09,Debit
+2025-07-24,Zomato,Food & Dining,681.13,Debit
+2025-07-24,More Supermarket,Groceries,3395.18,Debit
+2025-07-24,Ola Cabs,Transport,873.37,Debit
+2025-07-25,Indian Oil Fuel,Transport,972.25,Debit
+2025-07-26,Cafe Coffee Day,Food & Dining,1083.29,Debit
+2025-07-26,Truffles,Dining Out,2437.93,Debit
+2025-07-28,Indian Oil Fuel,Transport,951.01,Debit
+2025-07-28,Rapido,Transport,328.64,Debit
+2025-07-29,Reliance Fresh,Groceries,1414.84,Debit
+2025-07-30,Zepto,Groceries,2782.40,Debit
+2025-07-30,Ola Cabs,Transport,488.28,Debit
+2025-07-30,The Permit Room,Dining Out,1166.61,Debit
+2025-07-30,Decathlon,Shopping,6741.46,Debit
+2025-07-31,Cafe Coffee Day,Food & Dining,1036.52,Debit
+2025-07-31,Namma Metro,Transport,346.94,Debit
+2025-08-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2025-08-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2025-08-01,Blinkit Cafe,Food & Dining,214.21,Debit
+2025-08-01,Namma Metro,Transport,376.09,Debit
+2025-08-01,Apollo Pharmacy,Health,1362.42,Debit
+2025-08-02,Indian Oil Fuel,Transport,546.32,Debit
+2025-08-02,The Permit Room,Dining Out,1114.14,Debit
+2025-08-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2025-08-04,State Electricity Board Bill,Utilities,2386.26,Debit
+2025-08-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2025-08-05,Reliance Fresh,Groceries,3014.12,Debit
+2025-08-05,Toit Brewpub,Dining Out,3619.12,Debit
+2025-08-06,Swiggy,Food & Dining,1004.56,Debit
+2025-08-06,Indian Oil Fuel,Transport,872.39,Debit
+2025-08-06,Udemy,Education,4315.40,Debit
+2025-08-07,Netflix Subscription,Subscriptions,649.00,Debit
+2025-08-07,Cafe Coffee Day,Food & Dining,180.89,Debit
+2025-08-07,Cafe Coffee Day,Food & Dining,415.59,Debit
+2025-08-07,Zepto,Groceries,1547.48,Debit
+2025-08-07,Barbeque Nation,Dining Out,1428.08,Debit
+2025-08-08,Indian Oil Fuel,Transport,498.62,Debit
+2025-08-09,Spotify Premium,Subscriptions,119.00,Debit
+2025-08-09,Third Wave Coffee,Food & Dining,848.44,Debit
+2025-08-09,Zomato,Food & Dining,694.78,Debit
+2025-08-09,Third Wave Coffee,Food & Dining,832.39,Debit
+2025-08-09,Third Wave Coffee,Food & Dining,285.66,Debit
+2025-08-09,Ajio,Shopping,6221.63,Debit
+2025-08-10,Ola Cabs,Transport,746.33,Debit
+2025-08-11,DMart,Groceries,2303.18,Debit
+2025-08-11,Ola Cabs,Transport,615.86,Debit
+2025-08-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2025-08-12,Truffles,Dining Out,1295.28,Debit
+2025-08-13,Third Wave Coffee,Food & Dining,379.25,Debit
+2025-08-13,Indian Oil Fuel,Transport,914.72,Debit
+2025-08-13,Indian Oil Fuel,Transport,462.17,Debit
+2025-08-14,Zomato,Food & Dining,442.87,Debit
+2025-08-14,Zomato,Food & Dining,758.21,Debit
+2025-08-14,Namma Metro,Transport,181.50,Debit
+2025-08-14,Barbeque Nation,Dining Out,3819.61,Debit
+2025-08-16,Cafe Coffee Day,Food & Dining,733.25,Debit
+2025-08-17,Ajio,Shopping,5618.08,Debit
+2025-08-18,Zepto,Groceries,864.56,Debit
+2025-08-18,Rapido,Transport,542.07,Debit
+2025-08-18,Uber,Transport,891.39,Debit
+2025-08-19,Ola Cabs,Transport,244.09,Debit
+2025-08-19,Rapido,Transport,226.70,Debit
+2025-08-20,Namma Metro,Transport,855.38,Debit
+2025-08-21,Blinkit Cafe,Food & Dining,545.73,Debit
+2025-08-21,BigBasket,Groceries,1306.22,Debit
+2025-08-21,Ajio,Shopping,1293.01,Debit
+2025-08-23,Rapido,Transport,689.37,Debit
+2025-08-26,Uber,Transport,414.25,Debit
+2025-08-26,Rapido,Transport,1016.12,Debit
+2025-08-27,Blinkit Cafe,Food & Dining,857.06,Debit
+2025-08-27,Cafe Coffee Day,Food & Dining,716.67,Debit
+2025-08-27,More Supermarket,Groceries,1764.08,Debit
+2025-08-27,Reliance Fresh,Groceries,529.42,Debit
+2025-08-27,Practo Consultation,Health,1206.90,Debit
+2025-08-28,Steam Games,Entertainment,1054.20,Debit
+2025-08-29,Third Wave Coffee,Food & Dining,791.82,Debit
+2025-08-30,Steam Games,Entertainment,782.07,Debit
+2025-08-31,Swiggy,Food & Dining,1006.42,Debit
+2025-08-31,BookMyShow,Entertainment,1625.10,Debit
+2025-09-01,Salary Credit - Nexora Technologies,Income,168000.00,Credit
+2025-09-01,Rent - Palm Grove Apartments,Housing,32000.00,Debit
+2025-09-01,Ola Cabs,Transport,951.21,Debit
+2025-09-01,Toit Brewpub,Dining Out,4159.94,Debit
+2025-09-01,Ajio,Shopping,3042.71,Debit
+2025-09-03,Airtel Fiber Broadband,Utilities,1199.00,Debit
+2025-09-03,Ajio,Shopping,5409.42,Debit
+2025-09-04,State Electricity Board Bill,Utilities,2063.66,Debit
+2025-09-04,Swiggy,Food & Dining,714.79,Debit
+2025-09-04,Zomato,Food & Dining,265.88,Debit
+2025-09-04,Uber,Transport,857.56,Debit
+2025-09-04,Namma Metro,Transport,953.12,Debit
+2025-09-05,Tata AIG Health Insurance,Insurance,3400.00,Debit
+2025-09-07,Netflix Subscription,Subscriptions,649.00,Debit
+2025-09-07,Namma Metro,Transport,261.93,Debit
+2025-09-08,Truffles,Dining Out,4029.76,Debit
+2025-09-09,Spotify Premium,Subscriptions,119.00,Debit
+2025-09-09,Blinkit Cafe,Food & Dining,747.78,Debit
+2025-09-09,Zomato,Food & Dining,1054.87,Debit
+2025-09-09,Namma Metro,Transport,581.21,Debit
+2025-09-10,More Supermarket,Groceries,1685.29,Debit
+2025-09-11,Third Wave Coffee,Food & Dining,599.60,Debit
+2025-09-11,Swiggy,Food & Dining,715.90,Debit
+2025-09-11,Swiggy,Food & Dining,214.63,Debit
+2025-09-11,The Permit Room,Dining Out,3708.85,Debit
+2025-09-12,Cult.fit Gym Membership,Fitness,1799.00,Debit
+2025-09-12,Swiggy,Food & Dining,840.27,Debit
+2025-09-12,MakeMyTrip,Travel,31456.89,Debit
+2025-09-15,Third Wave Coffee,Food & Dining,478.79,Debit
+2025-09-15,Cafe Coffee Day,Food & Dining,160.75,Debit
+2025-09-16,Zepto,Groceries,3323.22,Debit
+2025-09-16,Uber,Transport,884.20,Debit
+2025-09-16,Truffles,Dining Out,2632.48,Debit
+2025-09-17,Zomato,Food & Dining,674.35,Debit
+2025-09-17,Ola Cabs,Transport,588.98,Debit
+2025-09-18,Swiggy,Food & Dining,1106.57,Debit
+2025-09-18,Toit Brewpub,Dining Out,1671.98,Debit
+2025-09-18,Myntra,Shopping,2093.44,Debit
+2025-09-19,Third Wave Coffee,Food & Dining,993.36,Debit
+2025-09-19,Uber,Transport,246.53,Debit
+2025-09-19,Rapido,Transport,758.36,Debit
+2025-09-20,Cafe Coffee Day,Food & Dining,718.43,Debit
+2025-09-20,Barbeque Nation,Dining Out,1074.65,Debit
+2025-09-22,Swiggy,Food & Dining,205.47,Debit
+2025-09-22,Third Wave Coffee,Food & Dining,760.80,Debit
+2025-09-22,More Supermarket,Groceries,540.48,Debit
+2025-09-22,BookMyShow,Entertainment,1583.39,Debit
+2025-09-23,Freelance Project Payment,Income,45425.14,Credit
+2025-09-24,Swiggy,Food & Dining,1031.51,Debit
+2025-09-25,Reliance Fresh,Groceries,3207.54,Debit
+2025-09-26,Zomato,Food & Dining,1037.49,Debit
+2025-09-26,Indian Oil Fuel,Transport,926.57,Debit
+2025-09-27,Indian Oil Fuel,Transport,999.46,Debit
+2025-09-28,Third Wave Coffee,Food & Dining,312.54,Debit
+2025-09-28,Uber,Transport,461.75,Debit
+2025-09-29,Blinkit Cafe,Food & Dining,744.24,Debit
+2025-09-29,Zepto,Groceries,1864.09,Debit
+2025-09-29,Zepto,Groceries,1683.35,Debit
+2025-09-29,Zepto,Groceries,1922.80,Debit
+2025-09-30,Cafe Coffee Day,Food & Dining,466.47,Debit
+2025-09-30,Swiggy,Food & Dining,820.42,Debit
+2025-09-30,Uber,Transport,440.81,Debit
+31/02/2025,Malformed Date Row,Food & Dining,780.00,Debit
