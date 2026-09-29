@@ -1,0 +1,35 @@
+# --- Python -------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Node ---------------------------------------------------------------------
+node_modules/
+dist/
+dist-ssr/
+coverage/
+.vite/
+npm-debug.log*
+yarn-error.log*
+
+# --- Environment --------------------------------------------------------------
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# --- Logs / OS / editors ------------------------------------------------------
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
