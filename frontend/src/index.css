@@ -1,0 +1,144 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Dark charcoal is the default theme. */
+  :root {
+    --background: 225 33% 4%;
+    --surface: 225 26% 7%;
+    --surface-muted: 225 22% 10%;
+    --surface-elevated: 225 20% 13%;
+    --border: 225 16% 17%;
+    --input: 225 16% 19%;
+    --ring: 160 84% 45%;
+    --foreground: 210 22% 96%;
+    --muted: 225 16% 15%;
+    --muted-foreground: 218 12% 62%;
+    --primary: 160 84% 45%;
+    --primary-foreground: 165 90% 7%;
+    --primary-muted: 160 35% 20%;
+    --accent: 258 88% 66%;
+    --accent-foreground: 260 45% 97%;
+    --card: 225 26% 7%;
+    --card-foreground: 210 22% 96%;
+    --positive: 152 68% 46%;
+    --negative: 358 78% 62%;
+    --warning: 38 92% 58%;
+    --info: 202 90% 60%;
+    --cluster-1: 160 84% 45%;
+    --cluster-2: 258 88% 66%;
+    --cluster-3: 38 92% 58%;
+    --cluster-4: 202 90% 60%;
+    --cluster-5: 330 82% 64%;
+    --cluster-6: 96 58% 52%;
+    --cluster-7: 20 90% 60%;
+    --cluster-8: 188 78% 56%;
+  }
+
+  /* Optional light theme, toggled from the top bar. */
+  html.light {
+    --background: 210 40% 98%;
+    --surface: 0 0% 100%;
+    --surface-muted: 210 30% 96%;
+    --surface-elevated: 210 25% 93%;
+    --border: 214 20% 88%;
+    --input: 214 20% 86%;
+    --ring: 162 80% 32%;
+    --foreground: 222 40% 12%;
+    --muted: 210 25% 92%;
+    --muted-foreground: 215 16% 42%;
+    --primary: 162 80% 32%;
+    --primary-foreground: 0 0% 100%;
+    --primary-muted: 162 45% 88%;
+    --accent: 258 70% 52%;
+    --accent-foreground: 0 0% 100%;
+    --card: 0 0% 100%;
+    --card-foreground: 222 40% 12%;
+    --positive: 158 70% 32%;
+    --negative: 0 72% 46%;
+    --warning: 32 90% 42%;
+    --info: 205 80% 42%;
+    --cluster-1: 162 80% 32%;
+    --cluster-2: 258 70% 52%;
+    --cluster-3: 32 88% 46%;
+    --cluster-4: 205 82% 44%;
+    --cluster-5: 330 72% 48%;
+    --cluster-6: 96 50% 36%;
+    --cluster-7: 20 80% 46%;
+    --cluster-8: 188 70% 34%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Never let a wide chart or table push the page sideways. */
+  body,
+  #root {
+    overflow-x: hidden;
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: hsl(var(--border));
+    border-radius: 9999px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: hsl(var(--muted-foreground) / 0.5);
+    background-clip: content-box;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-ring ring-offset-2 ring-offset-background;
+  }
+}
+
+@layer components {
+  /* min-w-0 matters: without it a wide child (a table or chart) would force its
+     grid track wider than the viewport instead of scrolling inside itself. */
+  .panel {
+    @apply min-w-0 rounded-lg border border-border bg-card shadow-panel;
+  }
+
+  /* Glassmorphism stays restrained: only the sticky chrome uses it. */
+  .glass {
+    @apply border-b border-border/70 bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/60;
+  }
+
+  .metric-value {
+    @apply font-semibold tabular-nums tracking-tight;
+  }
+
+  .label-caps {
+    @apply text-[11px] font-medium uppercase tracking-[0.14em] text-muted-foreground;
+  }
+
+  .chart-grid line {
+    stroke: hsl(var(--border));
+    stroke-opacity: 0.6;
+  }
+}
